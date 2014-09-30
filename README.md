@@ -42,7 +42,7 @@ The basic structure of the project is given in the following way:
 └── package.json
 ```
 
-#### [demo/](https://github.com/simpli/masked-input/tree/master/demo)
+#### [demo/](https://github.com/simpli-io/masked-input/tree/master/demo)
 
 Contains a simple HTML file to demonstrate your plugin.
 
