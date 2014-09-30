@@ -64,4 +64,4 @@ Check [Releases](https://github.com/simpli-io/simpli-io/releases) for detailed c
 
 ## License
 
-[MIT License](https://github.com/simpli-io/masked-input/blob/master/LICENSE.md) © simpli-io
+[MIT License](https://github.com/simpli-io/masked-input/blob/master/LICENSE) © simpli-io
