@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>jQuery Masked Input</title>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+		<script src="../src/jquery.masked-input.js"></script>
+	</head>
+	<body>
+		<label for="phone">Phone Number</label>
+		<input type="phone" id="phone-number" name="phone-number" />
+		<script>
+			$(function() {
+				$("#phone-number").maskedInput({
+					propertyName: "a custom value"
+				});
+			});
+		</script>
+	</body>
+</html>

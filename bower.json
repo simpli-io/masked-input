@@ -1,0 +1,21 @@
+{
+	"name": "jquery-masked-input",
+	"version": "0.1.0",
+	"homepage": "http://simpli.io",
+	"authors": [
+		"Andrew Walton <andrew@greenarrow.me>",
+		"Andrew Spear <scispear@gmail.com>"
+	],
+	"description": "A small, lightweight jQuery plugin for creating awesome masked inputs.",
+	"main": "src/jquery.masked-input.js",
+	"keywords": [
+		"jquery",
+		"plugin",
+		"masked",
+		"input",
+		"masked-input",
+		"jquery-plugin",
+		"jquery-masked-input"
+	],
+	"license": "MIT"
+}
